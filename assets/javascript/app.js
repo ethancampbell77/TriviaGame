@@ -14,7 +14,7 @@ $(document).ready(function() {
         question: "Before his time in The Ramones, Mark Bell (A.K.A. Marky Ramone) played drums in which Proto-Metal power trio?",
         posAnswers: ["Sir Lord Baltimore", "Dust", "Overkill", "Black Sabbath"],
         answer: 1,
-        image: "assets/images/dust.jpg"
+        image: "assets/images/Dust.jpg"
     },
     {
         question: "What was the name of Iggy Pop's Pre-Stooges Garage Rock band?",
