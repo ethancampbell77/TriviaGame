@@ -1,0 +1,61 @@
+/* Trivia CSS */
+
+/* Universal Box Sizing */
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #181717;
+    color: white;
+    background-image: url("../images/skull.jpg");
+    background-position-x: 95%;
+    background-position-y: -90%;
+    background-size: 35%;
+    background-repeat: no-repeat;
+ 
+}
+div#wrapper {
+    position: fixed;
+    bottom: 10%;
+    left: 25%;
+    background-color: tra;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    width: 50%;
+    height: 60%;
+}
+
+div#timer {
+    padding: 5%;
+    font-size: 30px;
+    color: yellow;
+}
+
+div#questionDiv {
+    padding: 2%;
+}
+
+div#answerDiv {
+    padding: 3%;
+}
+
+button#start,
+button#reset {
+    position: fixed;
+    bottom: 40%;
+    left: 42%;
+    background-color: rgb(222, 243, 29);
+    padding: 2%;
+    font-family: 'Bowlby One SC', cursive;
+    font-size: 15px;
+}
+
+h1 {
+    color: rgb(222, 243, 29);
+    font-family: 'Bowlby One SC', cursive;
+    font-size: 80px;
+    margin-top: 5%;
+    text-align: center;
+}
