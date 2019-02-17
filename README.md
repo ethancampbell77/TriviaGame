@@ -14,6 +14,8 @@ Laughing Skull Image borrowed from Teepublic.com
 If you love the image you can buy it in t-shirt form from them @:
 https://www.teepublic.com/t-shirt/1687998-laughing-skull-graphic-t-shirt-tees-collection
 
+Deployed on GitHub here:  https://ethancampbell77.github.io/TriviaGame/
+
 
 
 
